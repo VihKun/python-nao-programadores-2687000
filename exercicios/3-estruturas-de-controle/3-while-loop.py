@@ -7,5 +7,7 @@ final = 6
 while atual <= final:
   print(atual)
   atual += 1
+else:
+  print('Oops')
 
 # Insira "else" no while loop anterior.
